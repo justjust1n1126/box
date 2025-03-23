@@ -1,2 +1,2 @@
 # box
-a box
+a spinning box
